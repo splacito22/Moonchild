@@ -4,14 +4,24 @@
 
 ## Description
 
+This project is a portfolio web application built from scratch using HTML and CSS. The purpose of this application is to showcase my developer skills, work samples, and provide contact information for potential employers.
 ​
 
 ​
 
 ## Tasks
 
-​
+Structure the HTML: Create the basic structure of the portfolio page
 
+Apply CSS Styles: Style the portfolio page using CSS, focusing on layout, typography, colors, and visual elements. Utilize flexbox, media queries, and CSS variables to create a responsive and visually appealing design.
+
+Add Content: Populate the portfolio page with relevant content- name, profile picture, description in the "About" section, placeholder images and titles in the "Work" section, and a contact form in the "Contact" section.
+
+Implement Navigation: Create a navigation menu with links that scroll to the corresponding sections of the page when clicked. Ensure that the navigation menu is responsive and functions properly on different screen sizes.
+
+Create a Contact Form: Design and implement a contact form in the "Contact" section, allowing visitors to submit their name and email for further communication.
+
+Test and Optimize: Test the portfolio web application on various devices and screen sizes to ensure responsiveness and proper functionality.
 ​
 
 ## Usage
@@ -61,7 +71,10 @@ SOFTWARE.
 
 I would like to express my gratitude and appreciation to the following individuals, study groups, and AskBCS Learning Assistant for their contributions and support during the completion of this project:
 
+Josh Taylor- For their course materials and resources provided, including lecture slides, tutorials, and code examples. These materials have been invaluable in helping me grasp the concepts and apply them to create this project.
+
 -Rob Ambriz - for providing valuable feedback and guidance throughout the development process.
 
 Study Group/Zoom Breakout Rooms (w/Marc H, Evan Griggs, Jaime) - for their collaboration, discussions, and sharing of knowledge during our study sessions.
+
 AskBCS for their assistance, prompt responses, and helpful resources.
