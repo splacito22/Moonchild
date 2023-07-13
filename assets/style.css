@@ -177,3 +177,22 @@ footer {
   display: flex;
   justify-content: center;
 }
+
+.contact-form ul {
+  padding: 0;
+  margin-bottom: 10px;
+  list-style: none;
+}
+
+.contact-form li {
+  margin-bottom: 10px;
+}
+
+.contact-form label {
+  margin-right: 10px;
+}
+
+.contact-form input[type="text"] {
+  width: 200px;
+  padding: 5px;
+}
